@@ -1,2 +1,2 @@
-# react_todo
+# react_basic
 Created with CodeSandbox
